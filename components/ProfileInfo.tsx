@@ -19,11 +19,11 @@ export function ProfileCardInfo() {
             <span>@</span>
             <a
               target="_blank"
-              href="https://riken.io"
+              href="https://www.google.com"
               rel="noreferrer"
               className="hover:underline"
             >
-              riken
+              RikenPatel.work
             </a>
           </p>
         </div>
