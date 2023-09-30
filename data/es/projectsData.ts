@@ -6,7 +6,7 @@ export let projectsData: Project[] = [
     title: 'Weaverse - Constructor de sitios web universal',
     description: `El primer constructor de sitios web promovido por Hydrogen y potenciado por IA. Weaverse es un canal de ventas de Shopify que te permite crear un sitio web en minutos sin necesidad de programación.`,
     imgSrc: '/static/images/weaverse-hydrogen.jpg',
-    url: 'https://www.weaverse.io?ref=leohuynh.dev',
+    url: 'https://www.weaverse.io?ref=riken.dev',
     builtWith: ['Remix', 'Prisma', 'Tailwind', 'OpenAI'],
   },
   {
@@ -24,7 +24,7 @@ export let projectsData: Project[] = [
     title: 'Minimog - Tema para Shopify',
     description: `La próxima generación del tema Shopify con mayor conversión y extensibilidad (mejor vendido semanalmente y tendencia top en la categoría eCommerce de Themeforest).`,
     imgSrc: '/static/images/minimog.jpg',
-    url: 'https://themeforest.net/item/minimog-the-high-converting-shopify-theme/33380968?ref=leohuynh.dev',
+    url: 'https://riken.dev',
     builtWith: ['Theme-kit', 'Liquid', 'Webpack', 'Tailwind'],
   },
   {
@@ -32,14 +32,14 @@ export let projectsData: Project[] = [
     title: 'Fox Kit - Aplicación para Shopify',
     description: `Las herramientas de upselling y potenciación de conversiones construidas para apoyar el tema Minimog.`,
     imgSrc: '/static/images/foxkit.jpg',
-    url: 'https://apps.shopify.com/foxkit?ref=leohuynh.dev',
+    url: 'https://riken.dev',
     builtWith: ['Koa.js', 'JWT', 'MongoDB', 'Polaris'],
   },
   {
     type: 'self',
     title: 'Sitio web personal',
-    imgSrc: '/static/images/leoblog.jpg',
-    repo: 'leohuynh.dev',
+    imgSrc: '/static/images/Rikenblog.jpg',
+    repo: 'riken.dev',
     builtWith: ['Next.js', 'Tailwind', 'Typescript', 'Prisma', 'Umami'],
   },
   {

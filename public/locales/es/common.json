@@ -1,11 +1,11 @@
 {
   "site_meta_data": {
-    "title": "El blog de Leo - La aventura de programación de Leo",
-    "author": "Leo Huynh",
-    "full_name": "Tuan Anh Huynh",
-    "header_title": "El blog de Leo - La aventura de programación de Leo",
-    "footer_title": "El blog de Leo - La aventura de programación de Leo",
-    "description": "La aventura de programación de Leo - historias de trabajo y vida a través del teclado de un Ingeniero de Software de mente abierta",
+    "title": "El blog de Riken - La aventura de programación de Riken",
+    "author": "Riken Huynh",
+    "full_name": "Riken Patel",
+    "header_title": "El blog de Riken - La aventura de programación de Riken",
+    "footer_title": "El blog de Riken - La aventura de programación de Riken",
+    "description": "La aventura de programación de Riken - historias de trabajo y vida a través del teclado de un Ingeniero de Software de mente abierta",
     "language": "es"
   },
   "happy_reading": "Feliz lectura",
@@ -16,10 +16,10 @@
   "menu_resume": "Currículum",
   "greeting_message": "Hola, amigo!",
   "introduction": "Soy",
-  "name": "Tuan Anh Huynh",
+  "name": "Riken Patel",
   "description": "un Ingeniero de Software dedicado en",
   "location": "Ha Noi, VN",
-  "bio_1": "Me conocen como Leo en el trabajo.",
+  "bio_1": "Me conocen como Riken en el trabajo.",
   "bio_2": "Soy un aprendiz, constructor y buscador de libertad.",
   "bio_3": "Vivo en Ha Noi, Viet Nam.",
   "bio_4": "Nací en la hermosa meseta de Moc Chau.",
@@ -46,7 +46,7 @@
   "menu_resume_2": "Mi carrera",
   "analytics": "Tráfico y segmentación de este sitio",
   "avatar_description": "avatar",
-  "name_position": "Tuan Anh (Leo) Huynh",
+  "name_position": "Riken  (Riken) Huynh",
   "description_position": "Aprendiz | Constructor",
   "lost_message": "Hmm.. parece que te has perdido",
   "return_message": "Pero no te preocupes, puedes encontrar muchas otras cosas en mi página de inicio.",
@@ -70,7 +70,7 @@
   "build_with": {
     "built_with": "Hecho con",
     "view_source": "Ver código fuente",
-    "copyright_author": "El blog de Leo: el viaje de codificación de Leo"
+    "copyright_author": "El blog de Riken: el viaje de codificación de Riken"
   },
   "projects": {
     "projects_description": "Mis proyectos de código abierto que he construido con mis compañeros de trabajo.",

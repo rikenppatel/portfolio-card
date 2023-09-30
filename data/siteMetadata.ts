@@ -9,7 +9,7 @@ export let siteMetadata = {
   x: 'https://x.com',
   facebook: 'https://facebook.com',
   youtube: 'https://www.youtube.com',
-  linkedin: 'https://www.linkedin.com/in/hta218/',
+  linkedin: 'https://www.linkedin.com/in/',
   locale: 'en-US',
   analyticsURL: 'https://analytics.google.com',
   analytics: {
