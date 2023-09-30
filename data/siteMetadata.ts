@@ -1,27 +1,27 @@
 export let siteMetadata = {
-  siteUrl: 'https://www.leohuynh.dev',
-  siteRepo: 'https://github.com/hta218/leohuynh.dev',
+  siteUrl: 'www.rikenpatel.work',
+  siteRepo: 'https://github.com/',
   siteLogo: '/static/images/logo.jpg',
   image: '/static/images/logo.jpg',
   socialBanner: '/static/images/logo.jpg',
-  email: 'leohuynh@pm.me',
-  github: 'https://github.com/hta218',
-  x: 'https://x.com/hta218_',
-  facebook: 'https://facebook.com/hta218',
-  youtube: 'https://www.youtube.com/@hta218_',
+  email: 'riken.patel0@gmail.com',
+  github: 'https://github.com',
+  x: 'https://x.com',
+  facebook: 'https://facebook.com',
+  youtube: 'https://www.youtube.com',
   linkedin: 'https://www.linkedin.com/in/hta218/',
   locale: 'en-US',
-  analyticsURL: 'https://analytics.leohuynh.dev/share/jkwRskv0/leohuynh.dev',
+  analyticsURL: 'https://analytics.google.com',
   analytics: {
     plausibleDataDomain: '',
     simpleAnalytics: false, // true | false
-    umamiWebsiteId: '2df62ae5-7f13-455b-8e54-c15b96ff2b8b',
+    umamiWebsiteId: '12983712sjdcksd',
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
   },
   socialAccounts: {
-    github: 'hta218',
-    linkedin: 'hta218',
-    x: 'hta218_',
+    github: 'riken',
+    linkedin: 'riken',
+    x: 'riken',
   },
 }
 
