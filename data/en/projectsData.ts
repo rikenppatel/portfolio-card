@@ -3,9 +3,9 @@ import type { Project } from '~/types/data'
 export let projectsData: Project[] = [
   {
     type: 'work',
-    title: 'Weaverse - Universal website builder',
-    description: `The first Hydrogen-driven website builder powered by AI. Weaverse is a Shopify sales channel that allows you to create a website in minutes with no coding required.`,
-    imgSrc: '/static/images/weaverse-hydrogen.jpg',
+    title: 'riken - Universal website builder',
+    description: `The first Hydrogen-driven website builder powered by AI. riken is a Shopify sales channel that allows you to create a website in minutes with no coding required.`,
+    imgSrc: '/static/images/riken-hydrogen.jpg',
     url: 'https://www.google.io?ref=riken.dev',
     builtWith: ['Remix', 'Prisma', 'Tailwind', 'OpenAI'],
   },
@@ -14,9 +14,9 @@ export let projectsData: Project[] = [
     title: 'Pilot - Shopify Hydrogen theme',
     description:
       'The first Hydrogen-driven theme for Shopify. Pilot is a Shopify theme that allows you to build a lightning-fast storefront with all the benefits of Hydrogen.',
-    imgSrc: '/static/images/weaverse-pilot.jpg',
-    repo: 'weaverse/pilot',
-    url: 'https://pilot.weaverse.io/',
+    imgSrc: '/static/images/riken-pilot.jpg',
+    repo: 'riken/pilot',
+    url: 'https://pilot.riken.io/',
     builtWith: ['Hydrogen', 'Remix', 'Tailwind', 'Headless UI'],
   },
   {

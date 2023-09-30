@@ -3,10 +3,10 @@ import type { Project } from '~/types/data'
 export let projectsData: Project[] = [
   {
     type: 'work',
-    title: 'Weaverse - Constructor de sitios web universal',
-    description: `El primer constructor de sitios web promovido por Hydrogen y potenciado por IA. Weaverse es un canal de ventas de Shopify que te permite crear un sitio web en minutos sin necesidad de programación.`,
-    imgSrc: '/static/images/weaverse-hydrogen.jpg',
-    url: 'https://www.weaverse.io?ref=riken.dev',
+    title: 'riken - Constructor de sitios web universal',
+    description: `El primer constructor de sitios web promovido por Hydrogen y potenciado por IA. riken es un canal de ventas de Shopify que te permite crear un sitio web en minutos sin necesidad de programación.`,
+    imgSrc: '/static/images/riken-hydrogen.jpg',
+    url: 'https://www.riken.io?ref=riken.dev',
     builtWith: ['Remix', 'Prisma', 'Tailwind', 'OpenAI'],
   },
   {
@@ -14,9 +14,9 @@ export let projectsData: Project[] = [
     title: 'Pilot - Tema Hydrogen para Shopify',
     description:
       'El primer tema impulsado por Hydrogen para Shopify. Pilot es un tema de Shopify que te permite construir una tienda virtual extremadamente rápida con todas las ventajas de Hydrogen.',
-    imgSrc: '/static/images/weaverse-pilot.jpg',
-    repo: 'weaverse/pilot',
-    url: 'https://pilot.weaverse.io/',
+    imgSrc: '/static/images/riken-pilot.jpg',
+    repo: 'riken/pilot',
+    url: 'https://pilot.riken.io/',
     builtWith: ['Hydrogen', 'Remix', 'Tailwind', 'Headless UI'],
   },
   {

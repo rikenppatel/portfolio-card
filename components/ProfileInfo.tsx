@@ -19,20 +19,20 @@ export function ProfileCardInfo() {
             <span>@</span>
             <a
               target="_blank"
-              href="https://weaverse.io"
+              href="https://riken.io"
               rel="noreferrer"
               className="hover:underline"
             >
-              Weaverse
+              riken
             </a>
           </p>
         </div>
         <div className="flex items-center text-gray-700 dark:text-gray-200">
           <MapPin strokeWidth={1} size={20} />
           <p className="px-2">
-            [::1]:443 - San Francisco
+            San Francisco
             <span className="absolute ml-1 inline-flex pt-px">
-              <Twemoji emoji="flag-vietnam" />
+              <Twemoji emoji="flag-usa" />
             </span>
           </p>
         </div>
